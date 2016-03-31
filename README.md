@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi HanBao!
+
+I like Node.js!
